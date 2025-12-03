@@ -1,0 +1,11 @@
+../Core/Src/encoder.c:31:7:track_get_absolute_position	3
+../Core/Src/encoder.c:41:7:get_raw_angle	3
+../Core/Src/encoder.c:57:6:track_update_position	9
+../Core/Src/encoder.c:162:6:set_start_position	1
+../Core/Src/encoder.c:168:6:set_zero_position	1
+../Core/Src/encoder.c:176:6:left_wheel	3
+../Core/Src/encoder.c:201:6:right_wheel	3
+../Core/Src/encoder.c:246:6:update_pid_parameters	1
+../Core/Src/encoder.c:258:6:go_to_velocity	11
+../Core/Src/encoder.c:306:7:track_get_error_left	2
+../Core/Src/encoder.c:314:7:track_get_error_right	2
